@@ -1,2 +1,0 @@
-# TestLending
-Test task
